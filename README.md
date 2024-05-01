@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajveersingh-0011
-- 👀 I’m interested in Softeware Developer
+- 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Asp.Net Core and React JS
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
