@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajveer Singh
+- 👋 Hi, I’m Rajveer Singh
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Asp.Net Core and React JS
 - 📫 How to reach me ...
